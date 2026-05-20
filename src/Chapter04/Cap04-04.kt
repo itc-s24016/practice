@@ -1,3 +1,5 @@
+package Chapter04
+
 // list について（追加と削除）
 fun main() {
     val items = mutableListOf("A", "B", "C")

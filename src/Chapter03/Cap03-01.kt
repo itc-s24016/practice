@@ -1,3 +1,5 @@
+package Chapter03
+
 // val と var の違い
 fun main() {
     val str1 = "abc"

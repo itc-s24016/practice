@@ -1,3 +1,5 @@
+package Chapter03
+
 // 関数とラムダ式
 fun main(){
     fun func01(param: () -> Unit){

@@ -1,3 +1,5 @@
+package Chapter04
+
 // 論理演算子について
 fun main(){
     var a = 3
