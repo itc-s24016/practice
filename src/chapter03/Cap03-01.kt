@@ -1,4 +1,4 @@
-package Chapter03
+package chapter03
 
 // val と var の違い
 fun main() {

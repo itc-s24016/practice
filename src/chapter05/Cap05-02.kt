@@ -1,4 +1,4 @@
-package Chapter05
+package chapter05
 
 // null 許容型と let について
 fun main() {

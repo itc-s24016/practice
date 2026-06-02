@@ -1,4 +1,4 @@
-package Chapter04
+package chapter04
 
 // 論理演算子について
 fun main(){

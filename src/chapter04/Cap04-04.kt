@@ -1,4 +1,4 @@
-package Chapter04
+package chapter04
 
 // list について（追加と削除）
 fun main() {
