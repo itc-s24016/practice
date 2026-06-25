@@ -1,4 +1,4 @@
-package chapter07
+package chapter08
 
 // when の引数なしバージョンを試してみる
 fun describe(a: Int, b: Int): String = when{
